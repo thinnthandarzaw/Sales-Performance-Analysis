@@ -1,6 +1,6 @@
 # Sales-Performance-Analysis
 Sales Performance Analysis (Python, Power BI)
-This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The goal is to uncover valuable insights into spending patterns, customer segments, product preferences, and subscription behavior to support data-driven business decisions.
+This project analyzes customer shopping behavior using transactional data from 9,994 purchases across multiple product categories. The goal is to uncover valuable insights into spending patterns, customer segments, product preferences, and subscription behavior to support data-driven business decisions.
 
 📂 Dataset Summary
 
