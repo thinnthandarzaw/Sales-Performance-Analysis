@@ -1,26 +1,22 @@
-# Sales-Performance-Analysis
-Sales Performance Analysis (Python, Power BI)
-This project analyzes customer shopping behavior using transactional data from 9,994 purchases across multiple product categories. The goal is to uncover valuable insights into spending patterns, customer segments, product preferences, and subscription behavior to support data-driven business decisions.
+📊 Sales Performance Analysis: End-to-End Business Intelligence
+An end-to-end data analytics project transforming 9,994 transactional records into actionable business strategies. This project covers the full data lifecycle: from raw data cleaning in Python to complex relational querying in PostgreSQL and interactive storytelling in Power BI.
 
-📂 Dataset Summary
+🛠️ Tech Stack & Workflow
+Data Cleaning & ETL (Python): * Handled missing values and data type conversions using Pandas and NumPy.
 
-Total Rows: 9,994
-Total Columns: 21
+Automated the data pipeline by pushing cleaned data into PostgreSQL using SQLAlchemy.
 
-⚙️ Technologies Used
+Relational Database (PostgreSQL): * Developed complex SQL queries to answer high-level business questions.
 
-Python – Data Cleaning, Transformation, and Analysis
+Validated DAX logic (Power BI) against SQL results to ensure 100% data accuracy.
 
-PostgreSQL – SQL-based Business Queries and Insights
+Data Visualization (Power BI): * Designed 3 comprehensive dashboard pages: Executive Overview, Customer Insights, and Product Performance.
 
-Power BI – Dashboard Visualization and Reporting
+Implemented advanced DAX measures for Retention Rate, Profit Margins.
 
-🧰 Tools & Libraries
+💡 Key Business Insights
+Profitability Paradox: While sales are high ($2.3M), specific sub-categories like Tables (-9% margin) and Bookcases (-3% margin) are currently losing money due to aggressive discounting.
 
-Python (Pandas, NumPy)
+Customer Loyalty: Achieved a 98% Retention Rate, identifying that the growth engine is powered by repeat buyers (781 out of 793 total customers).
 
-PostgreSQL
-
-Power BI
-
-SQLAlchemy
+Geographic Performance: Identified Colorado and Illinois as critical "underperformers" with negative margins, contrasting with high-performing hubs like DC and Delaware.
