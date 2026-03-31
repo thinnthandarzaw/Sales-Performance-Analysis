@@ -1,7 +1,7 @@
-📊 Sales Performance Analysis: End-to-End Business Intelligence
+#Sales Performance Analysis
 An end-to-end data analytics project transforming 9,994 transactional records into actionable business strategies. This project covers the full data lifecycle: from raw data cleaning in Python to complex relational querying in PostgreSQL and interactive storytelling in Power BI.
 
-🛠️ Tech Stack & Workflow
+#Tech Stack & Workflow
 Data Cleaning & ETL (Python): Handled missing values and data type conversions using Pandas and NumPy.
 
 Automated the data pipeline by pushing cleaned data into PostgreSQL using SQLAlchemy.
@@ -14,7 +14,7 @@ Data Visualization (Power BI): Designed 3 comprehensive dashboard pages: Executi
 
 Implemented advanced DAX measures for Retention Rate, Profit Margins.
 
-💡 Key Business Insights
+#Key Business Insights
 Profitability Paradox: While sales are high ($2.3M), specific sub-categories like Tables (-9% margin) and Bookcases (-3% margin) are currently losing money due to aggressive discounting.
 
 Customer Loyalty: Achieved a 98% Retention Rate, identifying that the growth engine is powered by repeat buyers (781 out of 793 total customers).
